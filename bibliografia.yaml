@@ -1,0 +1,13 @@
+ferroni:
+  type: Book
+  title: "Storia della letteratura italiana: Dalle origini al Quattrocento"
+  author: Ferroni, Giulio
+  volume: 1
+  edition: "Nuova edizione rivista e aggiornata"
+  date: 2021
+  publisher:
+    name: Mondadori Università
+    location: Milano
+  serial-number:
+    isbn: 978-88-6184-830-6
+  language: it
